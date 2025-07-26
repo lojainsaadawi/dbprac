@@ -1,0 +1,15 @@
+{
+    "name": "ljn/practice25",
+    "autoload": {
+        "psr-4": {
+            "Ljn\\Practice25\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lojainsaadawi",
+            "email": "lojijaim@gmail.com"
+        }
+    ],
+    "require": {}
+}
